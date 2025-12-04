@@ -15,7 +15,7 @@
 
 # rm -rf Filter.py
 
-# git clone https://github.com/cood-filter-rubika/filter-rubika
+# git clone6 https://github.com/cood-filter-rubika/filter-rubika
 
 # cd filter-rubika
 
